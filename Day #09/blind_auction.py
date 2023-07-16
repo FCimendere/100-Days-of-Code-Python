@@ -1,3 +1,8 @@
+"""
+PRACTISE: Dictionaries, nesting
+Project : blind auction
+This project in which you can collect people's bids for objects. But every bid needs to be hidden from others. End of the auction, the winner's bid will be shown.
+"""
 import os
 import time
 
