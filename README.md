@@ -12,3 +12,4 @@
 |**[#004](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2304%20/rock_paper_scissors.py)**| **[Game: Rock Paper Scissors](https://replit.com/@fly-pixie/Gamerock-paper-scissors-by-fly?v=1)** | **Beginner** |
 |**[#005](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2305%20/fizz_buzz.py)**| **[Game: FizzBuzz](https://replit.com/@fly-pixie/Day5TheFizzBuzz?v=1)** | **Beginner** |
 |**[#005](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2305%20/password_generator.py)**| **[Password Generator](https://replit.com/@fly-pixie/password-generator-start?v=1)** | **Beginner** |
+|**[#007](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2305%20/password_generator.py)**| **[Game: Hangman](https://replit.com/@fly-pixie/Day-7-HangmanFly?v=1)** | **Beginner** |
