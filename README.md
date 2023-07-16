@@ -10,3 +10,5 @@
 |**[#002](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2302%20/tip_calculator.py)**| **[Tip Calculator](https://replit.com/@fly-pixie/Tip-Calculator-by-Fly?v=1)** | **Beginner** |
 |**[#003](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2303/game_treasure_island.py)**| **[Game: Treasure Island](https://replit.com/@fly-pixie/Treasure-island-by-Fly?v=1)** | **Beginner** |
 |**[#004](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2304%20/rock_paper_scissors.py)**| **[Game: Rock Paper Scissors](https://replit.com/@fly-pixie/Gamerock-paper-scissors-by-fly?v=1)** | **Beginner** |
+|**[#005](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2304%20/rock_paper_scissors.py)**| **[Game: FizzBuzz](https://replit.com/@fly-pixie/Day5TheFizzBuzz?v=1)** | **Beginner** |
+|**[#005](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2304%20/rock_paper_scissors.py)**| **[Password Generator](https://replit.com/@fly-pixie/password-generator-start?v=1)** | **Beginner** |
