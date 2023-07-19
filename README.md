@@ -15,6 +15,6 @@
 |**[#007](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2307/hangman.py)**| **[Game: Hangman](https://replit.com/@fly-pixie/Day-7-HangmanFly?v=1)** | **Beginner** |
 |**[#008](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2308/ceaser_cipher.py)**| **[Ceasar Cipher](https://replit.com/@fly-pixie/Day-8-Ceaser-Cipher-by-fly?v=1)** | **Beginner** |
 |**[#009](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2309/blind_auction.py)**| **[Blind Auction](https://replit.com/@fly-pixie/blind-auction-fly?v=1)** | **Beginner** |
-|**[#011](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2311/Blackjack.py)**| **[Game: Blackjack]()** | **Beginner** |
+|**[#011](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2311/Blackjack.py)**| **[Game: Blackjack](https://replit.com/@fly-pixie/blackjack-gamebyfly?v=1)** | **Beginner** |
 |**[#012](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2312/number_guess.py)**| **[Game: Number Guess](https://replit.com/@fly-pixie/guess-the-number-game-by-fly?v=1)** | **Beginner** |
 |**[#014](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2314/higher_lower.py)**| **[Game: Higher-Lower ](https://replit.com/@fly-pixie/higherlowergamebyfly?v=1)** | **Beginner** |
