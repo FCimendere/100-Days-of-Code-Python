@@ -1,20 +1,21 @@
 # 100-Days-of-Code-Python
 
-✨You can reach GitHub Python Code  👉 please click **the day number**
+✨You can reach GitHub Python Code from the project name 👉 please click **the project name**
 
-✨You can reach Replit solutionp  👉 lease click **the project name**
+
 
 | Day | Project Name  | Level |
 |---| ----- | ---------- |
-|**[#001](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2301%20/band_name_generator.py)**| **[Band Name Generator](https://replit.com/@fly-pixie/Day-1band-name-generator?v=1)** | **Beginner** |
-|**[#002](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2302%20/tip_calculator.py)**| **[Tip Calculator](https://replit.com/@fly-pixie/Tip-Calculator-by-Fly?v=1)** | **Beginner** |
-|**[#003](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2303/game_treasure_island.py)**| **[Game: Treasure Island](https://replit.com/@fly-pixie/Treasure-island-by-Fly?v=1)** | **Beginner** |
-|**[#004](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2304%20/rock_paper_scissors.py)**| **[Game: Rock Paper Scissors](https://replit.com/@fly-pixie/Gamerock-paper-scissors-by-fly?v=1)** | **Beginner** |
-|**[#005](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2305%20/fizz_buzz.py)**| **[Game: FizzBuzz](https://replit.com/@fly-pixie/Day5TheFizzBuzz?v=1)** | **Beginner** |
-|**[#005](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2305%20/password_generator.py)**| **[Password Generator](https://replit.com/@fly-pixie/password-generator-start?v=1)** | **Beginner** |
-|**[#007](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2307/hangman.py)**| **[Game: Hangman](https://replit.com/@fly-pixie/Day-7-HangmanFly?v=1)** | **Beginner** |
-|**[#008](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2308/ceaser_cipher.py)**| **[Ceasar Cipher](https://replit.com/@fly-pixie/Day-8-Ceaser-Cipher-by-fly?v=1)** | **Beginner** |
-|**[#009](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2309/blind_auction.py)**| **[Blind Auction](https://replit.com/@fly-pixie/blind-auction-fly?v=1)** | **Beginner** |
-|**[#011](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2311/Blackjack.py)**| **[Game: Blackjack](https://replit.com/@fly-pixie/blackjack-gamebyfly?v=1)** | **Beginner** |
-|**[#012](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2312/number_guess.py)**| **[Game: Number Guess](https://replit.com/@fly-pixie/guess-the-number-game-by-fly?v=1)** | **Beginner** |
-|**[#014](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2314/higher_lower.py)**| **[Game: Higher-Lower ](https://replit.com/@fly-pixie/higherlowergamebyfly?v=1)** | **Beginner** |
+|**#001**| **[Band Name Generator](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2301%20/band_name_generator.py)** | **Beginner** |
+|**#002**| **[Tip Calculator](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2302%20/tip_calculator.py)** | **Beginner** |
+|**#003**| **[Game: Treasure Island](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2303/game_treasure_island.py)** | **Beginner** |
+|**#004**| **[Game: Rock Paper Scissors](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2304%20/rock_paper_scissors.py)** | **Beginner** |
+|**#005**| **[Game: FizzBuzz](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2305%20/fizz_buzz.py)** | **Beginner** |
+|**#005**| **[Password Generator](hhttps://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2305%20/password_generator.py)** | **Beginner** |
+|**#007**| **[Game: Hangman](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2307/hangman.py)** | **Beginner** |
+|**#008**| **[Ceasar Cipher](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2308/ceaser_cipher.py)** | **Beginner** |
+|**#009**| **[Blind Auction](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2309/blind_auction.py)** | **Beginner** |
+|**#011**| **[Game: Blackjack](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2311/Blackjack.py)** | **Beginner** |
+|**#012**| **[Game: Number Guess](hhttps://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2312/number_guess.py)** | **Beginner** |
+|**#014**| **[Game: Higher-Lower ](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2314/higher_lower.py)** | **Beginner** |
+|**#015**| **[Coffee Machine ]()** | **Intermediate** |
