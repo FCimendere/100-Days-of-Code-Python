@@ -1,3 +1,14 @@
+#Project: Coffee Machine
+"""
+PRACTISE: Scope & Functions with outputs
+PROJECT: the program will ask you what you want to drink.(espresso/latte/cappuccino)
+Depending on your reply, it will ask to coins. it will calculate the price of the coffee automatically. 
+When you typed "report" it will show the current amount of the resources.
+"""
+
+
+
+
 from coffee_menus import MENU
 from coin_list import MONEY
 from coffee_logos import m, e, l, c
