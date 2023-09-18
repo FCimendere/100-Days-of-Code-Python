@@ -19,5 +19,6 @@
 |**#012**| **[Game: Number Guess](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2312/number_guess.py)** | **Beginner** |
 |**#014**| **[Game: Higher-Lower ](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2314/higher_lower.py)** | **Beginner** |
 |**#015**| **[Coffee Machine ](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2315/coffee_machine.py)** | **Intermediate** |
-|**#017**| **[Game: Quiz ](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2315/coffee_machine.py)** | **Intermediate** |
-|**#018**| **[Hirst Painting Project ](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2315/coffee_machine.py)** | **Intermediate** |
+|**#017**| **[Game: Quiz ](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2317/quiz_main.py)** | **Intermediate** |
+|**#018**| **[Hirst Painting Project ](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2318/hirst_dot_painting.py)** | **Intermediate** |
+|**#019**| **[Game: Runner Turtle ](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2318/hirst_dot_painting.py)** | **Intermediate** |
