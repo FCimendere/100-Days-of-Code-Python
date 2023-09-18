@@ -1,3 +1,12 @@
+#Project: Game-Runner Turtle
+"""
+PRACTISE: This is a practice for understanding Turtle & the graphical user.
+PROJECT: A screen and text box will appear where you can write your bet about the color of the turtles.
+The game will start, and one random turtle will cross the hurdle.
+Then you will see the final information about whether you are a winner or loser.
+"""
+
+
 from turtle import Turtle, Screen
 import random
 
