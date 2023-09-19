@@ -23,3 +23,4 @@
 |**#018**| **[Hirst Painting Project ](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2318/hirst_dot_painting.py)** | **Intermediate** |
 |**#019**| **[Game: Runner Turtle ](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2319/runner_turtle_game.py)** | **Intermediate** |
 |**#021**| **[Game: Snake](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2321/snake_main.py)** | **Intermediate** |
+|**#022**| **[Game: Pong](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2322/main_pong.py)** | **Intermediate** |
