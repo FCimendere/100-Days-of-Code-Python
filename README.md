@@ -24,3 +24,4 @@
 |**#019**| **[Game: Runner Turtle ](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2319/runner_turtle_game.py)** | **Intermediate** |
 |**#021**| **[Game: Snake](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2321/snake_main.py)** | **Intermediate** |
 |**#022**| **[Game: Pong](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%20%2322/main_pong.py)** | **Intermediate** |
+|**#023**| **[Game: The turtle crossing capstone project](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%20%2323)** | **Intermediate** |
