@@ -19,13 +19,13 @@
 |**#012**| **[Game: Number Guess](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2312)** | **Beginner** | **Scope** |
 |**#014**| **[Game: Higher-Lower ](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2314)** | **Beginner** | **Capstone project** |
 |**#015**| **[Coffee Machine ](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2315)** | **Intermediate** | **Capstone project** |
-|**#017**| **[Game: Quiz ](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2317)** | **Intermediate** | **OOP** |
+|**#017**| **[Game: Quiz ](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2317)** | **Intermediate** | **Entering OOP** |
 |**#018**| **[Hirst Painting Project ](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2318)** | **Intermediate** | **Turtle & GUI** |
 |**#019**| **[Game: Runner Turtle ](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2319)** | **Intermediate** | **Instances, states, higher order functions** |
 |**#021**| **[Game: Snake](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2321)** | **Intermediate** | **Turtle & Animation & Inheritance** |
 |**#022**| **[Game: Pong](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2322)** | **Intermediate** | **Turtle & Animation & Inheritance** |
 |**#023**| **[Game: The turtle crossing capstone project](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2323)** |**Intermediate** | **Turtle & Animation & Inheritance** |
 |**#026**| **[NATO Alphabet](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2326/Nato_alphabet_creator)** |**Intermediate** | **Pandas** |
-|**#026**| **[Game: USA States Guess](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2326/US%20States%20Game)** |**Intermediate** | **Turle & Pandas & List Comprehension** |
-|**#028**| **[Project: Pomodoro App](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2328)** | **Intermediate** | **Tkinter &GUI** |
+|**#026**| **[Game: USA States Guess](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2326/US%20States%20Game)** |**Intermediate** | **Turtle & Pandas & List Comprehension** |
+|**#028**| **[Project: Pomodoro App](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2328)** | **Intermediate** | **Tkinter & GUI** |
 |**#030**| **[Upgrade: Password Generator](https://github.com/fly-pixie/100-Days-of-Code-Python/blob/main/Day%2330/password_gen_upgrade.py)** | **Intermediate** | **Tkinter & GUI & JSON** |
