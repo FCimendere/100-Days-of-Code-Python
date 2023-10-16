@@ -1,3 +1,10 @@
+#Project : ISS Overhead Notifier
+"""
+PRACTISE: SMTP library usage, API endpoint practise
+PROJECT: An email will be sent during the nighttime if the ISS satellite is overhead user location.
+In this project, API endpoint,smtplib, datetime lib has been used. 
+"""
+
 import requests
 from datetime import datetime
 import smtplib
