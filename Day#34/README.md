@@ -1,4 +1,6 @@
-This is a quiz application.
+
+It is an upgrade of the quiz application designed on Day#17.
+
 The project is designed as object oriented programming (OOP).
 Questions are requested using the Open Trivia API endpoint.
 These questions are displayed sequentially on the GUI app screen.
