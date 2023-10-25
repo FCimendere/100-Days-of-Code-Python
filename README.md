@@ -32,3 +32,4 @@
 |**#031**| **[Project: Flash Card Language App ](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2331)** | **Intermediate** | **GUI over Tkinter, Data usage over Pandas** |
 |**#033**| **[Project: ISS overhead notifier](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2333)** | **Intermediate** | **API, Sending email over SMTP** |
 |**#034**| **[Upgrade: Day#17 Quiz Game ](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2334)** | **Intermediate** | **API, Tkinter** |
+|**#035**| **[Project: Stock Trading News Alert](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2335)** | **Intermediate** | **API, sending SMS over Twilio** |
