@@ -8,10 +8,12 @@ Collects news related to the stock company name.
 Sends an SMS about these stock movements and related news.|
 
 |**PRACTISE**|
+|---|
 |Design project as OOP.
 Collecting data over API.
 Using Authentication & environment variables.
 Sending SMS over twilio app.|
 
 |**OUTPUT**|
+|---|
 
