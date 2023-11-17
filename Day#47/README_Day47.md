@@ -13,3 +13,5 @@
 
 |**OUTPUT**|
 |---|
+
+<img src="https://github.com/fly-pixie/100-Days-of-Code-Python/assets/65401609/65c14687-c25c-4b4a-b112-c725b35edc60" width="300" height="300">
