@@ -33,4 +33,5 @@
 |**#033**| **[Project: ISS overhead notifier](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2333)** | **Intermediate** | **API, Sending email over SMTP** |
 |**#034**| **[Upgrade: Day#17 Quiz Game ](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2334)** | **Intermediate** | **API, Tkinter** |
 |**#035**| **[Project: Stock Trading News Alert](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2335)** | **Intermediate** | **API, sending SMS over Twilio** |
-|**#045**| **[Basic Web Scraching Application](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2345)** | **Intermediate** | **Web scraping data over Beautiful soup library** |
+|**#045**| **[Web Scraping with Beautiful Soup](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2345)** | **Intermediate** | **Web scraping over BeautifulSoup** |
+|**#047**| **[Create a Spotify Playlist using the Musical Time Machine](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2347)** | **Intermediate** | **Web scraping over BeautifulSoup & Authentication via spotipy** |
