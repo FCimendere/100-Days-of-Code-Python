@@ -15,6 +15,7 @@
 |**OUTPUT**|
 |---|
 <img width="300" alt="Home page image" src="https://github.com/fly-pixie/100-Days-of-Code-Python/assets/65401609/ba377351-a1b3-4c6a-9f74-e156c699ddec">
+</br>
 <img width="300" alt="User guess too low image" src="https://github.com/fly-pixie/100-Days-of-Code-Python/assets/65401609/109e3ca3-a787-4873-945b-78a411aae35e">
 <img width="300" alt="User guess too high image" src="https://github.com/fly-pixie/100-Days-of-Code-Python/assets/65401609/5533216d-0c94-464b-80a9-b0a7ce7afa06">
 <img width="300" alt="User guess is correct image" src="https://github.com/fly-pixie/100-Days-of-Code-Python/assets/65401609/fc8ce6b3-b53d-4bd4-9662-889d60f3e872">
