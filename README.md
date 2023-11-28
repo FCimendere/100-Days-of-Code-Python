@@ -35,3 +35,4 @@
 |**#035**| **[Project: Stock Trading News Alert](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2335)** | **Intermediate** | **API, sending SMS over Twilio** |
 |**#045**| **[Web Scraping with Beautiful Soup](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2345)** | **Intermediate** | **Web scraping over BeautifulSoup** |
 |**#047**| **[Create a Spotify Playlist using the Musical Time Machine](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2347)** | **Intermediate** | **Web scraping over BeautifulSoup & Authentication via spotipy** |
+|**#055**| **[Higher Lower Game with Flask](https://github.com/fly-pixie/100-Days-of-Code-Python/tree/main/Day%2355)** | **Intermediate** | **HTML & URL Parsing with Flask** |
