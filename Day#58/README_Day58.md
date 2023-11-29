@@ -12,6 +12,6 @@
 
 |**OUTPUT**|
 |---|
-<img width="1672" alt="Screenshot 2023-11-28 at 21 01 12" src="https://github.com/fly-pixie/100-Days-of-Code-Python/assets/65401609/01b0b116-db28-4b3c-b2eb-9a46ddff9bb2">
-<img width="1672" alt="Screenshot 2023-11-28 at 21 01 19" src="https://github.com/fly-pixie/100-Days-of-Code-Python/assets/65401609/922c7715-560e-4620-945f-8eca9cb7467b">
-<img width="1672" alt="Screenshot 2023-11-28 at 21 01 24" src="https://github.com/fly-pixie/100-Days-of-Code-Python/assets/65401609/2f94c8ab-c62a-485e-9b2b-111416a51e0e">
+<img width="1672" alt="Screenshot 2023-11-29 at 16 11 01" src="https://github.com/fly-pixie/100-Days-of-Code-Python/assets/65401609/2da3ba5a-5465-469f-bb73-6f6a575fc870">
+<img width="1672" alt="Screenshot 2023-11-29 at 16 10 29" src="https://github.com/fly-pixie/100-Days-of-Code-Python/assets/65401609/d1722499-9fa0-4b53-ac95-e158e9c856dc">
+<img width="1672" alt="Screenshot 2023-11-29 at 16 10 12" src="https://github.com/fly-pixie/100-Days-of-Code-Python/assets/65401609/b294b92a-99ca-4cb5-9106-086899f5d6d7">
