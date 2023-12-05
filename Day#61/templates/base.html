@@ -1,0 +1,22 @@
+<!-- This is base HTML file. Below areas will be inherited to the other html pages.  -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% block styles %}
+    <!-- Adding Bootstrap-Flask styling here -->
+    {{ bootstrap.load_css() }} {% endblock %}
+    <title>{% block title %}{% endblock %}</title>
+    <style>
+    {% block styling %}
+    body{
+        background: white;
+    }
+    {% endblock %}
+    </style>
+</head>
+<body>
+    {% block content %}{% endblock %}
+</body>
+</html>
